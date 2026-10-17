@@ -1,0 +1,6 @@
+"delivery_bucket","orders","pct_of_orders","avg_score","pct_low_scores"
+"1. on time or early",89672,93.2,4.28,9.5
+"2. 1-3 days late",1869,1.9,3.28,32.4
+"3. 4-7 days late",1802,1.9,2.09,68.1
+"4. 8-14 days late",1478,1.5,1.67,80.4
+"5. 15+ days late",1382,1.4,1.72,78.5
